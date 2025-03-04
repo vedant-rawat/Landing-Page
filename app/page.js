@@ -135,3 +135,9 @@ export default function LandingPage() {
     </div>
   );
 }
+
+
+
+// git add .
+// git commit -m "Updated homepage text"
+// git push origin main
